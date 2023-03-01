@@ -1,11 +1,37 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Carret/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Carret.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Carret.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Carret/1.0.0": {
+      "sha512": "oO8OTGGCxGmVcf2tzdRVRt/jniYK+s0hepNV0unuhjwgkGxVXeozLvM4QSqiA2SHVdbRPXis4b3WTl5zqu4q+A==",
+      "type": "package",
+      "path": "carret/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "carret.1.0.0.nupkg.sha512",
+        "carret.nuspec",
+        "iconizer-3d Pointer.png",
+        "lib/net6.0/Carret.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Carret >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\malin\\.nuget\\packages\\": {},
@@ -51,6 +77,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Carret": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9YtHsPIqTGsd2oEMyeyJcUduzUcsVk6QNvO6SNZchiuBXVwo1b0qCXdRgBT1PjBfvTerhgRA/MW8lcXTm0m5Bw==",
+  "dgSpecHash": "yoQCLNQr3C0zKB79XyZmu+EPJkaI1HMasqZCrb5otg5dSEwlbV02JEkzh157ZIKPQFA0+bqI+aTBbvyaj/N6Zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\malin\\OneDrive\\Рабочий стол\\repos\\DNSparse\\DNSparse.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\malin\\.nuget\\packages\\carret\\1.0.0\\carret.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

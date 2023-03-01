@@ -1,0 +1,17 @@
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.exe
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.deps.json
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.runtimeconfig.json
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.dll
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.pdb
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\Carret.dll
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.csproj.AssemblyReference.cache
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.AssemblyInfoInputs.cache
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.AssemblyInfo.cs
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.csproj.CoreCompileInputs.cache
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.csproj.CopyComplete
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.dll
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\refint\DNSparse.dll
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.pdb
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.genruntimeconfig.cache
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\ref\DNSparse.dll

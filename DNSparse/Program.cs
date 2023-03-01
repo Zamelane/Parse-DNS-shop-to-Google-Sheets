@@ -1,10 +1,23 @@
-﻿namespace DNSparse
+﻿using Carret;
+
+namespace DNSparse
 {
     internal class Program
     {
-        static void Main(string[] args)
+        // Настройки
+
+
+        static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Парсер DNS запущен...");
+            UpdateString LoadingStr = new UpdateString("\tЗагрузка => ", "[", "Чтение параметров...", "]");
+            LoadingStr.Write();
+
+            DNS dns = new DNS();
+
+            await dns.ParseAsync();
+
+            Console.ReadKey();
         }
     }
 }

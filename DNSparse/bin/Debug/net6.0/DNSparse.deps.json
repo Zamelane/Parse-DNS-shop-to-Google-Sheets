@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DNSparse/1.0.0": {
+        "dependencies": {
+          "Carret": "1.0.0"
+        },
+        "runtime": {
+          "DNSparse.dll": {}
+        }
+      },
+      "Carret/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Carret.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNSparse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Carret/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oO8OTGGCxGmVcf2tzdRVRt/jniYK+s0hepNV0unuhjwgkGxVXeozLvM4QSqiA2SHVdbRPXis4b3WTl5zqu4q+A==",
+      "path": "carret/1.0.0",
+      "hashPath": "carret.1.0.0.nupkg.sha512"
+    }
+  }
+}
