@@ -9,6 +9,7 @@ namespace DNSparse
 {
     internal class DNS
     {
+        // Чисто набросок! Нужно менять концепцию...
         private string url_api_products = "https://www.dns-shop.ru/product/microdata/";
         private string url_list_product = "https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?p=";
         private List<string> lists = new List<string>();
