@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yoQCLNQr3C0zKB79XyZmu+EPJkaI1HMasqZCrb5otg5dSEwlbV02JEkzh157ZIKPQFA0+bqI+aTBbvyaj/N6Zw==",
+  "dgSpecHash": "xJJd/5etd5V7cFSOW3C84Bnmyk2EBm0hxYzF1sBY/NYUPJOvVAKL8t7N1SbUp0asQGItpk30CDK88BcHL0mufg==",
   "success": true,
   "projectFilePath": "C:\\Users\\malin\\OneDrive\\Рабочий стол\\repos\\DNSparse\\DNSparse.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\malin\\.nuget\\packages\\carret\\1.0.0\\carret.1.0.0.nupkg.sha512"
+    "C:\\Users\\malin\\.nuget\\packages\\carret\\1.0.0\\carret.1.0.0.nupkg.sha512",
+    "C:\\Users\\malin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\malin\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\malin\\.nuget\\packages\\selenium.webdriver.chromedriver\\110.0.5481.7700\\selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512"
   ],
   "logs": []
 }

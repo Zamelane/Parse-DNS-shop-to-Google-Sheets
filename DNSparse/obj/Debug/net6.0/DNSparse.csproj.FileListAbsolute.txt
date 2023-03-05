@@ -1,9 +1,14 @@
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.exe
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.deps.json
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.runtimeconfig.json
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.dll
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\DNSparse.pdb
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\Carret.dll
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\bin\Debug\net6.0\WebDriver.dll
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.csproj.AssemblyReference.cache
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\malin\OneDrive\Рабочий стол\repos\DNSparse\obj\Debug\net6.0\DNSparse.AssemblyInfoInputs.cache

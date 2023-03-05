@@ -9,15 +9,26 @@ namespace DNSparse
 
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Парсер DNS запущен...");
-            UpdateString LoadingStr = new UpdateString("\tЗагрузка => ", "[", "Чтение параметров...", "]");
-            LoadingStr.Write();
+            try
+            {
+                Console.WriteLine("Парсер DNS запущен...");
+                UpdateString LoadingStr = new UpdateString("\tЗагрузка => ", "[", "Чтение параметров...", "]");
+                LoadingStr.Write();
 
-            DNS dns = new DNS();
+                DNS dns = new DNS();
 
-            await dns.ParseAsync();
+                await dns.ParseAsync();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Непредвиденная ошибка: " + ex.Message + "\n" + ex.StackTrace);
+            }
+            finally
+            {
 
-            Console.ReadKey();
+                Console.WriteLine("\n\n\nПрограмма завершена!");
+                Console.ReadKey();
+            }
         }
     }
 }
